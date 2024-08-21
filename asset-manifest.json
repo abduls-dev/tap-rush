@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tap-rush/static/css/main.af65f9e5.css",
+    "main.js": "/tap-rush/static/js/main.661a17d4.js",
+    "static/js/453.54193141.chunk.js": "/tap-rush/static/js/453.54193141.chunk.js",
+    "index.html": "/tap-rush/index.html",
+    "main.af65f9e5.css.map": "/tap-rush/static/css/main.af65f9e5.css.map",
+    "main.661a17d4.js.map": "/tap-rush/static/js/main.661a17d4.js.map",
+    "453.54193141.chunk.js.map": "/tap-rush/static/js/453.54193141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af65f9e5.css",
+    "static/js/main.661a17d4.js"
+  ]
+}
